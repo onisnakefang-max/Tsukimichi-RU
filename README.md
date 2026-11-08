@@ -1,15 +1,15 @@
 # Tsukimichi RU
 
-Русифицированная сборка плагина Tsukimichi для Dalamud. Перевод интерфейса пока черновой: 189 из 4868 строк переведены; остальное остаётся на английском.
+Публичный Dalamud-репозиторий и раздача русской черновой сборки Tsukimichi. Переведено 189 из 4 868 строк интерфейса; остальное отображается по-английски. В игре сборку ещё не проверяли.
 
-Оригинальный проект и авторство: [xenofei/Tsukimichi](https://github.com/xenofei/Tsukimichi), Michiru Tsukikage. Лицензия MIT, см. LICENSE в исходном проекте.
+Оригинальный исходный код: [xenofei/Tsukimichi](https://github.com/xenofei/Tsukimichi), автор Michiru Tsukikage. Лицензия MIT, см. [LICENSE](LICENSE).
 
 ## Установка
 
-В игре откройте `/xlsettings` → **Experimental** → **Custom Plugin Repositories** и добавьте:
+В игре откройте `/xlsettings` → **Experimental** → **Custom Plugin Repositories**, добавьте URL и нажмите **+**:
 
 ```
 https://raw.githubusercontent.com/onisnakefang-max/Tsukimichi-RU/main/pluginmaster.json
 ```
 
-Нажмите `+`, сохраните настройки, затем откройте `/xlplugins`, найдите `Tsukimichi` и установите.
+Затем сохраните настройки, откройте `/xlplugins`, найдите **Tsukimichi** и нажмите **Install**. Пакет версии 1.24.0 опубликован в [релизах](https://github.com/onisnakefang-max/Tsukimichi-RU/releases/tag/v1.24.0).
