@@ -1,0 +1,33 @@
+[
+  {
+    "Author": "Michiru Tsukikage",
+    "Name": "Tsukimichi",
+    "InternalName": "Tsukimichi",
+    "AssemblyVersion": "1.24.0.0",
+    "Description": "A quest catalog for every journal type, with completed and available filters and a per-requirement breakdown of what still blocks a quest.\r\nMoonlit treasures collects quests with unique rewards, and per-character snapshots keep the whole account in view.\r\nLocal only: no network code.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/onisnakefang-max/Tsukimichi-RU",
+    "Tags": [
+      "quests",
+      "journal",
+      "tracker",
+      "rewards"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/onisnakefang-max/Tsukimichi-RU/main/assets/icon-medallion.png",
+    "Punchline": "Walk the moon's path: every quest, every requirement, every unique reward.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/onisnakefang-max/Tsukimichi-RU/releases/download/v1.24.0/latest.zip",
+    "IsHide": false,
+    "DownloadLinkUpdate": "https://github.com/onisnakefang-max/Tsukimichi-RU/releases/download/v1.24.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/onisnakefang-max/Tsukimichi-RU/releases/download/v1.24.0/latest.zip",
+    "LastUpdate": 1794144476,
+    "Changelog": "Moonfall, The Moon Road stage 3\n\n• Five new levels join The Moon Road.\n• The first ten levels have remade layouts and new Ace targets.",
+    "DownloadCount": 0,
+    "IsTestingExclusive": false
+  }
+]
